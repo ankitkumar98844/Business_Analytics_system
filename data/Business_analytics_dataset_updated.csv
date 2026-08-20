@@ -1,0 +1,101 @@
+call_id,student_name,year,location,tech_stack,sentiment_label,remarks
+1,Mridul Verma,2024,Noida,MERN Stack,Positive,
+2,Vishal Tyagi,2022,Lucknow,Python with Data Science,Positive,
+3,Anand Raj Ashwin,2024,Noida,Python with AI and ML,Negative,
+4,Ankit Sharma,2024,Noida,Python with AI and ML,Positive,
+5,Shruti Pandey,2025,Lucknow,Python with AI and ML,Positive,
+6,Rakesh,2022,Noida,Python with AI and ML,Negative,
+7,Rohan Kumar,2023,Lucknow,Python with Data Science,Negative,
+8,Hari Anand,2022,Noida,Python with AI and ML,Negative,
+9,Abhay Sharma,2023,Noida,MERN Stack,Negative,
+10,Nitish,2024,Lucknow,Java Full Stack,Negative,
+11,Rohan,2024,Noida,Java Full Stack,Negative,
+12,Yogesh,2025,Lucknow,Java Full Stack,Negative,
+13,Ankit Kumar,2024,Lucknow,Java Full Stack,Negative,
+14,Ritik ,2025,Noida,Java Full Stack,Positive,
+15,Anmol,2024,Lucknow,Java Full Stack,Negative,
+16,Abhishek Chauhan,2024,Noida,Java Full Stack,Positive,
+17,Rajesh,2024,Lucknow,Java Full Stack,Negative,
+18,Ansh,2024,Lucknow,Java Full Stack,Positive,
+19,Divyansh,2024,Noida,Java Full Stack,Negative,
+20,Devraj Singh,2024,Noida,Java Full Stack,Negative,
+21,Abhay Kumar,2025,Lucknow,Java Full Stack,Positive,
+22,Khagendra Pandey,2024,Lucknow,Java Full Stack,Positive,
+23,Kartik,2025,Lucknow,Java Full Stack,Positive,
+24,Dhairya Sarswat,2025,Lucknow,Java Full Stack,Positive,
+25,Abdul Samad,2025,Noida,Java Full Stack,Positive,
+26,Aks Saxena,2022,Noida,Java Full Stack,Positive,
+27,Abbas Jannati,2025,Lucknow,Java Full Stack,Positive,
+28,Manoj Kumar,2024,Lucknow,Java Full Stack,Negative,
+29,Amit Kumar,2023,Noida,Python with Data Science,Positive,
+30,Aarush,2022,Noida,Python with Data Science,Positive,
+31,Darshan,2023,Noida,MERN Stack,Negative,
+32,Hitesh,2023,Lucknow,MERN Stack,Positive,
+33,Sanchit,2024,Noida,MERN Stack,Negative,
+34,Anuj,2022,Lucknow,Python with AI and ML,Negative,
+35,Vishal ,2024,Noida,MERN Stack,Negative,
+36,Shaurya,2025,Noida,MERN Stack,Negative,
+37,Manish,2024,Lucknow,Python with AI and ML,Negative,
+38,Sachin,2024,Lucknow,Java Full Stack,Positive,
+39,Gurkirat,2022,Lucknow,Python with Data Science,Positive,
+40,Manish,2022,Noida,MERN Stack,Negative,
+41,Ayush,2024,Lucknow,Python with AI and ML,Negative,
+42,Ritik Sharma,2025,Lucknow,Python with AI and ML,Positive,
+43,Vivaan Bhatia,2025,Lucknow,Python with Data Science,Positive,Very enthusiastic about the course
+44,Rohan Chopra,2024,Lucknow,Python with Data Science,Positive,Agreed to join training
+45,Saanvi Kapoor,2022,Lucknow,Java Full Stack,Positive,Agreed to join training
+46,Krishna Patel,2025,Noida,Java Full Stack,Positive,Very enthusiastic about the course
+47,Saanvi Agarwal,2023,Noida,Python with AI and ML,Positive,Student showed strong interest
+48,Saanvi Patel,2025,Lucknow,Python with Data Science,Positive,Very enthusiastic about the course
+49,Ishaan Malhotra,2023,Lucknow,Python with AI and ML,Positive,Student showed strong interest
+50,Vivaan Nair,2023,Noida,MERN Stack,Positive,Student showed strong interest
+51,Ananya Sharma,2022,Lucknow,Python with Data Science,Negative,"Not Interested , fees too high"
+52,Vishakha Upreti,2025,Noida,Python with AI and ML,Negative,"Average Feedback , delayed in Training"
+53,Yogesh,2022,Lucknow,Java Full Stack,Negative,Not interested
+54,Rakesh,2025,Noida,Python with Data Science,Negative,Not Interested
+55,Ankit,2024,Noida,Java Full Stack,Negative,Not Interested
+56,Harianand,2025,Noida,Java Full Stack,Negative,Not Interested
+57, Drishti,2024,Lucknow,Java Full Stack,Negative,Not Interested
+58,Anuj,2024,Lucknow,Java Full Stack,Negative,Not Interested
+59,Anshi,2024,Lucknow,Java Full Stack,Negative,No Interested
+60,Shaurya,2025,Lucknow,MERN Stack,Negative,not much Interested
+61,Anchit,2024,Noida,Java Full Stack,Negative,Not Interested
+62,Anuj,2024,Lucknow,Java Full Stack,Negative,Not Interested
+63,Ankit,2025,Lucknow,Java Full Stack,Negative,Not interested in training
+64,Utkarsh,2022,Lucknow,Java Full Stack,Negative,Not interested in training
+65,Akshay,2024,Noida,Java Full Stack,Negative,Not interested in training
+66,Ayushmaan,2025,Noida,Java Full Stack,Negative,Not interested in training
+67,Kabir,2024,Noida,Java Full Stack,Negative,Not Interested
+68,Nikhil,2024,Noida,Java Full Stack,Negative,Not interested in training
+69,Anshul,2025,Noida,Java Full Stack,Negative,Not interested in training
+70,Samir ,2024,Noida,Java Full Stack,Negative,Not interested in training
+71,Sneha ,2023,Noida,Java Full Stack,Negative,Will not join
+72,Priyanshu,2025,Lucknow,Java Full Stack,Negative,will not join
+73,Suraj,2023,Lucknow,Java Full Stack,Negative,Not interested in training
+74,Manish,2025,Lucknow,Java Full Stack,Negative,Not interested in training
+75,Harsh,2024,Noida,Java Full Stack,Negative,Will not join
+76,Prince,2025,Lucknow,Java Full Stack,Negative,Not intrested in training
+77,Sagar,2024,Lucknow,Java Full Stack,Negative,Will not join
+78,Ayush,2023,Lucknow,Java Full Stack,Negative,Not intrested in training
+79,Manish,2023,Noida,Java Full Stack,Negative,Not intrested in training
+80,Gulshan,2023,Noida,Java Full Stack,Negative,Not interested in training
+81,Aditya,2024,Lucknow,Java Full Stack,Negative,Not interested in training
+82,Ashmith,2024,Noida,Java Full Stack,Negative,Not interested in training
+83,Saransh,2024,Lucknow,Java Full Stack,Negative,Will not join
+84,Vihaan Bhatia,2024,Noida,MERN Stack,Negative,Will not join
+85,Rohan Saxena,2025,Noida,Java Full Stack,Negative,Found fees too high
+86,Sneha Sharma,2025,Lucknow,Python with Data Science,Negative,Not interested in training
+87,Ananya Jain,2022,Lucknow,Java Full Stack,Negative,Will not join
+88,Ananya Singh,2022,Noida,Java Full Stack,Negative,Not interested in training
+89,Arjun Patel,2023,Noida,Python with AI and ML,Negative,Not interested in training
+90,Ishaan Agarwal,2024,Noida,Java Full Stack,Negative,Will not join
+91,Krishna Nair,2025,Noida,Java Full Stack,Negative,Found fees too high
+92,Aarav Pandey,2022,Lucknow,Python with Data Science,Negative,Will not join
+93,Sneha Joshi,2022,Noida,Java Full Stack,Negative,Not interested in training
+94,Aditya Agarwal,2025,Noida,Python with Data Science,Negative,Found fees too high
+95,Sai Kapoor,2023,Lucknow,MERN Stack,Negative,Will not join
+96,Meera Patel,2023,Noida,MERN Stack,Negative,Found fees too high
+97,Aarav Yadav,2023,Noida,Python with AI and ML,Negative,Will not join
+98,Sneha Gupta,2024,Lucknow,MERN Stack,Negative,Not interested in training
+99,Kabir Verma,2023,Noida,MERN Stack,Negative,Found fees too high
+100,Aditi Yadav,2025,Noida,MERN Stack,Negative,Not interested in training
